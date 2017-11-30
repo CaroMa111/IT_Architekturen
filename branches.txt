@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Erste Zeile Feature1 Branche
+=======
+Zweite Zeile feature2 Branch
+>>>>>>> feature2
